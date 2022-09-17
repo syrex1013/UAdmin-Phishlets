@@ -18,6 +18,11 @@ UAdmin is not my program. It was an ukranian panel, which was leaked some time a
 * Next, click save.
 * Your phishlet is ready to go!
 
+
+# TODO
+* Implement Redirect option
+* Implement Block option
+
 # Screenshots
 ![This is an image](https://i.imgur.com/R4PX8G6.png)
 ![This is an image](https://i.imgur.com/0kr6NsM.png)
