@@ -1,5 +1,8 @@
-# UAdmin-Phishlets
-UAdmin Phishlets for common sites
+<p align="center">
+ <img src="https://i.imgur.com/F9dQisP.png"></img>
+</p>
+
+
 
 # What is UAdmin panel?
 UAdmin panel is a phishing site manager, that allows it's administrator to collect logs from phishing sites, as well as hijack OTP codes and 2FA.
@@ -21,6 +24,9 @@ UAdmin is not my program. It was an ukranian panel, which was leaked some time a
 * Open "Op. Settings", click advanced and paste the contents of operations.json file.
 * Next, click save.
 * Your phishlet is ready to go!
+
+# Working Phishlets
+* Gmail
 
 
 # TODO
