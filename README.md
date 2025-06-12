@@ -38,3 +38,8 @@ UAdmin is not my program. It was an ukranian panel, which was leaked some time a
 ![This is an image](https://i.imgur.com/R4PX8G6.png)
 ![This is an image](https://i.imgur.com/0kr6NsM.png)
 ![This is an image](https://i.imgur.com/uVI6eta.png)
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=syrex1013/uadmin-phishlets@github)](https://gitads.dev/v1/ad-track?source=syrex1013/uadmin-phishlets@github)
+
+
